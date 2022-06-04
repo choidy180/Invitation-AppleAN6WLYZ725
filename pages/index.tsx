@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <TitleKo>애플 인턴쉽 프로그램에 지원을 선택해 주셔서 감사합니다. 이 초대장에 있는 중요 정보를 꼭 읽어 주시기 바랍니다.</TitleKo>
         <TitleKo><b>초대장 번호</b> : AN2WKYV949</TitleKo>
         <TitleKo><b>진행 종류</b> : 제품디자인 / Product design</TitleKo>
-        <DateText><b>참석 예약</b> : 15-Jun-2022 09:00 AM ~ 12-JUL-2022 16:00 PM KST</DateText>
+        <DateText><b>참석 예약</b> : 15-Jun-2022 09:00 AM ~ 12-Jul-2022 16:00 PM KST</DateText>
         <Addressee><b>초대자</b> : Jeongeun Baek</Addressee>
         <Addressee><b>참석자</b> : Gabin Park, Hyesoo Son</Addressee>
         <Addressee><b>참석 장소</b>: CA Cupertino Apple Computer Inc. 1 infinite Loop 95014</Addressee>
