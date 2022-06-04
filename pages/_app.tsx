@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Next-basics | Next</title>
+        <title>Invitation-Apple | 초대장</title>
       </Head>
       <GlobalStyle/>
       <ThemeProvider theme={theme}>
